@@ -1,2 +1,2 @@
 # PythonExercicios
-Exercicios de Python feitos através do Curso em Vídeo
+Exercicios de Python feitos no curso de Pythons 3 do Curso em Vídeo
